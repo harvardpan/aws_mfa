@@ -1,0 +1,11 @@
+{
+  "name": "aws_mfa",
+  "version": "1.0.0",
+  "description": "Retrieves temporary tokens for AWS IAM user and updates the profile defined in \"config.mfa_profile\" profile for logged in user",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Harvard Pan",
+  "license": "ISC"
+}
